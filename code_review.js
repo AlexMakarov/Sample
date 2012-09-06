@@ -9,3 +9,9 @@ function old2(){
 // Old code
 //
 }
+
+function bad(){
+//
+// Bad code
+//
+}
