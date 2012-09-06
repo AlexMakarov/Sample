@@ -1,17 +1,11 @@
-function bad(){
+function old1(){
 //
-// Back to rewrite
-//
-}
-
-function good(){
-//
-// Push to release
+// Old code
 //
 }
 
-function wait_review(){
+function old2(){
 //
-// This code still not reviewed.
+// Old code
 //
 }
