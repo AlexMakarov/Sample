@@ -15,3 +15,5 @@ function wait_review(){
 //
 //
 }
+
+var some_addition;
